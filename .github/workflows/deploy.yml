@@ -9,7 +9,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-# tche
 
 jobs:
   # JOB 1: INTEGRAÇÃO CONTÍNUA (CI)
